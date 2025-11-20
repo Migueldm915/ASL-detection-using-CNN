@@ -1,4 +1,5 @@
 ASL Alphabet Recognition Project
+
 Project by Group 2 for LBYCPF3
 
 This project implements a system that uses a Convolutional Neural Network (CNN) to recognize American Sign Language (ASL) hand gestures, specifically the ASL alphabet. The model is trained using a dataset of hand gesture images and can make predictions in real-time via webcam input. The goal of the project is to enhance accessibility and facilitate communication for individuals who use ASL.
